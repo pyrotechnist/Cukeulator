@@ -14,7 +14,7 @@ Feature: Calculate a result
   Examples:
     | num1 | num2 | op | result   |
     | 9    | 8    | +  | 17.0     |
-    | 7    | 6    | –  | 3.0      |
+    | 7    | 6    | –  | 1.0      |
     | 5    | 4    | x  | 20.0     |
     | 3    | 2    | /  | 1.5      |
     | 1    | 0    | /  | Infinity |
